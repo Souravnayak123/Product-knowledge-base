@@ -1,0 +1,17 @@
+[
+  {
+    "ean": "8901234567890",
+    "product_name": "Packaged Milk",
+    "product_category": "Dairy",
+    "mrp": 30.0,
+    "batch_no": "BATCH123",
+    "mfg_date": "2026-10-01",
+    "exp_date": "2026-10-08",
+    "shelf_life_days": 7,
+    "shelf_life_basis": "From manufacturing date",
+    "storage_conditions": "Refrigerated",
+    "packaging_type": "Sealed",
+    "source": "Product label",
+    "remarks": "Store under refrigeration"
+  }
+]
